@@ -4,7 +4,7 @@
 ## I work in I.T for a living, which means I 
 - Get to play Halo on lunchbreak.
 - Am busy 94.23% of the time.
-## I use Linux and Windows
+## I use Arch Linux (btw) and Windows
 
 ## New PC Specs - As cheap as possible
 | Part          | Model         | $AUD  |
