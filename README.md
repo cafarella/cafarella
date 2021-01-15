@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+![Dell](https://img.shields.io/badge/Dell-User-007DB8?style=for-the-badge&logo=dell)
+![Arch](https://img.shields.io/badge/Arch_Linux-User-BA160C?style=for-the-badge&logo=arch-linux)
+![Windows](https://img.shields.io/badge/Windows-Contributor-0078D6?style=for-the-badge&logo=windows)
+![Azure](https://img.shields.io/badge/Azure-Developer-0089D6?style=for-the-badge&logo=microsoft-azure)
+![BMW](https://img.shields.io/badge/BMW-Driver-0066B1?style=for-the-badge&logo=bmw)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti)
+
 # I design keyboards and write software
 - See https://github.com/dankboard for details.
 ## I work in I.T for a living, which means I 
