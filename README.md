@@ -7,7 +7,7 @@
 ![BMW](https://img.shields.io/badge/BMW-Driver-0066B1?style=for-the-badge&logo=bmw)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti)
 
-# I design keyboards and write software
+# I design hardware, keyboards and software
 - See https://github.com/dankboard for details.
 ## I work in I.T for a living, which means I 
 - Get to play Halo on lunchbreak.
