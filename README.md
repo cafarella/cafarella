@@ -18,7 +18,7 @@
 | Part          | Model         | $AUD  |
 | ------------- |:-------------:| -----:|
 | CPU           | Ryzen 7 3700X | $75 |
-| Memory        | Corsair Vengance RGB Pro 64gb (2x32) 3200MHz    |   $439 |
+| Memory        | Crucial BL2K32G36C16U4B 64GB (2x32GB) DDR4 3600MHz CL16  |   $539 |
 | Motherboard   | Asus ROG Strix X570-I ITX      |    $- |
 | Storage SSD 1 | Samsung 870 QVO 8TB |    $1198 |
 | Boot SSD      | Samsung 980 Pro 1TB      |    $350 |
