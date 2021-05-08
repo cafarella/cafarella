@@ -1,3 +1,4 @@
+#CEO of Limetic
 ### Hi there 👋
 
 ![Dell](https://img.shields.io/badge/Dell-User-007DB8?style=for-the-badge&logo=dell)
