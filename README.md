@@ -6,7 +6,6 @@
 ![Windows](https://img.shields.io/badge/Windows-Contributor-0078D6?style=for-the-badge&logo=windows)
 ![Azure](https://img.shields.io/badge/Azure-Developer-0089D6?style=for-the-badge&logo=microsoft-azure)
 ![BMW](https://img.shields.io/badge/BMW-Driver-0066B1?style=for-the-badge&logo=bmw)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti)
 
 # I design hardware, keyboards and software
 - See https://github.com/dankboard for details.
