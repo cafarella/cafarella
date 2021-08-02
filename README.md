@@ -1,5 +1,6 @@
 # CEO of Limetic
 ### Hi there 👋
+Keybase: https://keybase.io/cafarella
 
 ![Dell](https://img.shields.io/badge/Dell-User-007DB8?style=for-the-badge&logo=dell)
 ![Arch](https://img.shields.io/badge/Arch_Linux-User-BA160C?style=for-the-badge&logo=arch-linux)
@@ -9,7 +10,7 @@
 
 # I design hardware, keyboards and software
 - See https://github.com/dankboard for details.
-- If you want a 32 bit 768k DAC, see https://github.com/AlexanderPCafa/portaDAC. A work in progress but should be completed by the end of 2021.
+- Company: https://github.com/Limetic
 ## I work in I.T for a living, which means I 
 - Get to play Halo on lunchbreak.
 - Am busy 94.23% of the time.
