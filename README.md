@@ -1,4 +1,4 @@
-# Founder of Limetic
+# Founder of Meshplane and Limetic
 ### Hi there 👋
 Keybase: https://keybase.io/cafarella
 
@@ -10,7 +10,7 @@ Keybase: https://keybase.io/cafarella
 
 # I design hardware, keyboards and software
 - See https://github.com/dankboard for details.
-- Company: https://github.com/Limetic
+- Company: https://github.com/Limetic https://github.com/meshplane 
 ## I work in I.T for a living, which means I 
 - Get to play Halo on lunchbreak.
 - Am busy 94.23% of the time.
