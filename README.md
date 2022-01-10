@@ -1,4 +1,4 @@
-# Founder of Meshplane and Limetic
+# Founder of Meshplane
 ### Hi there 👋
 Keybase: https://keybase.io/cafarella
 
