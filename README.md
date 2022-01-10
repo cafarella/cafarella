@@ -8,16 +8,16 @@ Keybase: https://keybase.io/cafarella
 ![Azure](https://img.shields.io/badge/Azure-Developer-0089D6?style=for-the-badge&logo=microsoft-azure)
 ![BMW](https://img.shields.io/badge/BMW-Driver-0066B1?style=for-the-badge&logo=bmw)
 
-# I design hardware, keyboards and software
-- See https://github.com/dankboard for details.
-- Company: https://github.com/Limetic https://github.com/meshplane 
-## I work in I.T for a living, which means I 
+# I design [network hardware](https://meshplane.net)
+- https://github.com/meshplane 
+
+## I work(ed) in I.T for a living, which means I (used to be able to)
 - Get to play Halo on lunchbreak.
 - Am busy 94.23% of the time.
-## I use Arch Linux (btw) and Windows
+## (btw) I use Arch (Linux) and Windows
 
 <!--
-**AlexanderPCafa/AlexanderPCafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cafarella/cafarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
