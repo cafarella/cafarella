@@ -14,47 +14,47 @@
 <h4 align="center">Languages</h4>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"
+        <img src="https://cdn.simpleicons.org/javascript/7F7F7F"
             alt="javascript" width="40" height="40" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"
+        <img src="https://cdn.simpleicons.org/typescript/7F7F7F"
             alt="typescript" width="40" height="40" />
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/go.svg" alt="go" width="40"
+        <img src="https://cdn.simpleicons.org/go/7F7F7F" alt="go" width="40"
             height="40" />
     </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/graphql.svg" alt="graphql"
+        <img src="https://cdn.simpleicons.org/graphql/7F7F7F" alt="graphql"
             width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" alt="csharp"
+        <img src="https://cdn.simpleicons.org/csharp/7F7F7F" alt="csharp"
             width="40" height="40" />
     </a>
     <a href="https://www.erlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/erlang.svg" alt="erlang"
+        <img src="https://cdn.simpleicons.org/erlang/7F7F7F" alt="erlang"
             width="40" height="40" />
     </a>
     <a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elixir.svg" alt="elixir"
+        <img src="https://cdn.simpleicons.org/elixir/7F7F7F" alt="elixir"
             width="40" height="40" />
     </a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ruby.svg" alt="ruby"
+        <img src="https://cdn.simpleicons.org/ruby/7F7F7F" alt="ruby"
             width="40" height="40" />
     </a>
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rubyonrails.svg" alt="rails"
+        <img src="https://cdn.simpleicons.org/rubyonrails/7F7F7F" alt="rails"
             width="40" height="40" />
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rust.svg" alt="rust"
+        <img src="https://cdn.simpleicons.org/rust/7F7F7F" alt="rust"
             width="40" height="40" />
     </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sass.svg" alt="sass"
+        <img src="https://cdn.simpleicons.org/sass/7F7F7F" alt="sass"
             width="40" height="40" />
     </a>
 </p>
@@ -62,23 +62,23 @@
 <h4 align="center">Frameworks:</h4>
 <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="react"
+        <img src="https://cdn.simpleicons.org/react/7F7F7F" alt="react"
             width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="express"
+        <img src="https://cdn.simpleicons.org/express/7F7F7F" alt="express"
             width="40" height="40" />
     </a>
     <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/electron.svg" alt="electron"
+        <img src="https://cdn.simpleicons.org/electron/7F7F7F" alt="electron"
             width="40" height="40" />
     </a>
     <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gatsby.svg" alt="gatsby"
+        <img src="https://cdn.simpleicons.org/gatsby/7F7F7F" alt="gatsby"
             width="40" height="40" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg" alt="nextjs"
+        <img src="https://cdn.simpleicons.org/nextdotjs/7F7F7F" alt="nextjs"
             width="40" height="40" />
     </a>
 
@@ -87,43 +87,43 @@
 <h4 align="center">Packages and Libraries:</h4>
 <p align="center">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg"
+        <img src="https://cdn.simpleicons.org/microsoftazure/7F7F7F"
             alt="azure" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git"
+        <img src="https://cdn.simpleicons.org/git/7F7F7F" alt="git"
             width="40" height="40" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker"
+        <img src="https://cdn.simpleicons.org/docker/7F7F7F" alt="docker"
             width="40" height="40" />
     </a>
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg"
+        <img src="https://cdn.simpleicons.org/kubernetes/7F7F7F"
             alt="kubernetes" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt="nodejs"
+        <img src="https://cdn.simpleicons.org/nodedotjs/7F7F7F" alt="nodejs"
             width="40" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
+        <img src="https://cdn.simpleicons.org/tailwindcss/7F7F7F"
             alt="tailwind" width="40" height="40" />
     </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/webpack.svg" alt="webpack"
+        <img src="https://cdn.simpleicons.org/webpack/7F7F7F" alt="webpack"
             width="40" height="40" />
     </a>
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chartdotjs.svg"
+        <img src="https://cdn.simpleicons.org/chartdotjs/7F7F7F"
             alt="chartjs" width="40" height="40" />
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash"
+        <img src="https://cdn.simpleicons.org/gnubash/7F7F7F" alt="bash"
             width="40" height="40" />
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" alt="pytorch"
+        <img src="https://cdn.simpleicons.org/pytorch/7F7F7F" alt="pytorch"
             width="40" height="40" />
     </a>
 
@@ -132,51 +132,51 @@
 <h4 align="center">Software:</h4>
 <p align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"
+        <img src="https://cdn.simpleicons.org/visualstudiocode/7F7F7F"
             alt="vscode" width="40" height="40" />
     </a>
     <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/altiumdesigner.svg" alt="altium"
+        <img src="https://cdn.simpleicons.org/altiumdesigner/7F7F7F" alt="altium"
             width="40" height="40" />
     </a>
     <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autodesk.svg" alt="autodesk"
+        <img src="https://cdn.simpleicons.org/autodesk/7F7F7F" alt="autodesk"
             width="40" height="40" />
     </a>
     <a href="https://www.3ds.com/products/solidworks/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dassaultsystemes.svg"
+        <img src="https://cdn.simpleicons.org/dassaultsystemes/7F7F7F"
             alt="dassault" width="40" height="40" />
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg"
+        <img src="https://cdn.simpleicons.org/adobeillustrator/7F7F7F"
             alt="illustrator" width="40" height="40" />
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"
+        <img src="https://cdn.simpleicons.org/adobephotoshop/7F7F7F"
             alt="photoshop" width="40" height="40" />
     </a>
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/grafana.svg" alt="grafana"
+        <img src="https://cdn.simpleicons.org/grafana/7F7F7F" alt="grafana"
             width="40" height="40" />
     </a>
     <a href="https://www.home-assistant.io/hassio/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homeassistant.svg"
+        <img src="https://cdn.simpleicons.org/homeassistant/7F7F7F"
             alt="hassio" width="40" height="40" />
     </a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nginx.svg" alt="nginx"
+        <img src="https://cdn.simpleicons.org/nginx/7F7F7F" alt="nginx"
             width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"
+        <img src="https://cdn.simpleicons.org/postgresql/7F7F7F"
             alt="postgresql" width="40" height="40" />
     </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg" alt="redis"
+        <img src="https://cdn.simpleicons.org/redis/7F7F7F" alt="redis"
             width="40" height="40" />
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/oracle.svg" alt="oracle"
+        <img src="https://cdn.simpleicons.org/oracle/7F7F7F" alt="oracle"
             width="40" height="40" />
     </a>
 
@@ -185,23 +185,23 @@
 <h4 align="center">Hardware:</h4>
 <p align="center">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arduino.svg" alt="arduino"
+        <img src="https://cdn.simpleicons.org/arduino/7F7F7F" alt="arduino"
             width="40" height="40" />
     </a>
     <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" alt="espressif"
+        <img src="https://cdn.simpleicons.org/espressif/7F7F7F" alt="espressif"
             width="40" height="40" />
     </a>
     <a href="https://delltechnologies.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dell.svg" alt="webpack"
+        <img src="https://cdn.simpleicons.org/dell/7F7F7F" alt="webpack"
             width="40" height="40" />
     </a>
     <a href="https://lenovo.com/thinkpad" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/thinkpad.svg" alt="webpack"
+        <img src="https://cdn.simpleicons.org/thinkpad/7F7F7F" alt="webpack"
             width="40" height="auto" />
     </a>
     <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/raspberrypi.svg"
+        <img src="https://cdn.simpleicons.org/raspberrypi/7F7F7F"
             alt="raspberrypi" width="40" height="40" />
     </a>
 </p>
