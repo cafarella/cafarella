@@ -17,7 +17,7 @@
             alt="Website" /></a>
     <a href="https://purble.place/@alexander" rel="me" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Mastodon-615ff9?style=for-the-badge&logo=Mastodon&logoColor=white&link=https://purble.place/@alexander"
-            alt="Mastodon" /></a>
+            alt="Mastodon" rel="me" /></a>
     <a href="https://twitter.com/alexandercafa" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/alexandercafare"
             alt="Twitter" /></a>
