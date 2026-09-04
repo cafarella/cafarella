@@ -15,8 +15,8 @@
     <a href="https://alexandercafarella.com" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://alexandercafarella.com"
             alt="Website" /></a>
-    <a href="https://purble.place/@alexander" target="blank"><img align="center"
-            src="https://img.shields.io/badge/-Mastodon-615ff9?style=for-the-badge&logo=Mastodon&logoColor=white&link=https://parasocial.network/@alexander"
+    <a href="https://purble.place/@alexander" rel="me" target="blank"><img align="center"
+            src="https://img.shields.io/badge/-Mastodon-615ff9?style=for-the-badge&logo=Mastodon&logoColor=white&link=https://purble.place/@alexander"
             alt="Mastodon" /></a>
     <a href="https://twitter.com/alexandercafa" target="blank"><img align="center"
             src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/alexandercafare"
